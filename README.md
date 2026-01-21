@@ -40,15 +40,12 @@ The system operates within a dedicated Pluggable Database (`FINALP_PDB`) utilizi
 ## Deployment and Verification
 
 ### 1. Installation
-Execute the main script as a user with `SYSDBA` privileges to initialize the PDB and apply security configurations.
+Execute the main script as a user with `SYSDBA` privileges to initialize the PDB and apply security configurations(logy.sql)
 
-```sql
-SQL> @scripts/logy.sql
-
-## 2 Validation
+### 2. Verfication
 SQL> @scripts/verification.sql
 
-##Implemented by
+## Implemented by
 * **Jalal Ameen**
 * **Ezz Aldeen Alshalafi**
 
