@@ -50,4 +50,4 @@ SQL> @scripts/verification.sql
 * **Ezz Aldeen Alshalafi**
 
 ## Supervised by
-* **Thanaa Al Ashwal**
+* **Thana Al Ashwal**
